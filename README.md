@@ -15,7 +15,7 @@ The datapack ignores players with the `doFreeze` tag, so you can try it out.
 
 **How to use:**
 
- 	1. Install the datapack
- 	2. Done! No configuration required!
+1. Install the datapack
+2. Done! No configuration required!
 
 ​	
